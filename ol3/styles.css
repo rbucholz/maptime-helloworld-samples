@@ -1,0 +1,19 @@
+html,
+body,
+#map-demo {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#popup {
+    font-size: 12px;
+    background-color: rgba(119,136,153,0.75);
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
